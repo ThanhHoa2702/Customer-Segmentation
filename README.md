@@ -26,7 +26,7 @@ Kỹ thuật: Phân tích Khám phá (EDA), Xử lý Outliers, Phân cụm khác
 
   <img width="939" height="559" alt="image" src="https://github.com/user-attachments/assets/a2c752ec-b823-44b9-a0ad-cb56158216a7" />
 
-- Kháchh hàng không vướng bận con cái là phân khúc mang lại giá trị cao nhất, thể hiện sức mua vượt trội ở các mục sản phẩm giá trị cao như Rượu và Thịt.
+- Khách hàng không vướng bận con cái là phân khúc mang lại giá trị cao nhất, thể hiện sức mua vượt trội ở các mục sản phẩm giá trị cao như Rượu và Thịt.
 
 <img width="918" height="550" alt="image" src="https://github.com/user-attachments/assets/04be703c-2b77-4ddb-9a2a-92643a35ca72" />
 
