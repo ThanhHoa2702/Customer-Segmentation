@@ -36,12 +36,12 @@
 | Feature | Description |
 | :--- | :--- |
 | `NumDealsPurchases` | Số lần mua hàng có sử dụng mã giảm giá. |
-| `AcceptedCmp1` | `1` chấp nhận ưu đãi trong chiến dịch thứ 1, `0` nếu không. |
-| `AcceptedCmp2` | `1` chấp nhận ưu đãi trong chiến dịch thứ 2, `0` nếu không. |
-| `AcceptedCmp3` | `1` chấp nhận ưu đãi trong chiến dịch thứ 3, `0` nếu không. |
-| `AcceptedCmp4` | `1` chấp nhận ưu đãi trong chiến dịch thứ 4, `0` nếu không. |
-| `AcceptedCmp5` | `1` chấp nhận ưu đãi trong chiến dịch thứ 5, `0` nếu không. |
-| `Response` | `1` chấp nhận ưu đãi trong chiến dịch gần nhất, `0` nếu không. |
+| `AcceptedCmp1` | `1` chấp nhận chiến dịch thứ 1, `0` nếu không. |
+| `AcceptedCmp2` | `1` chấp nhận chiến dịch thứ 2, `0` nếu không. |
+| `AcceptedCmp3` | `1` chấp nhận chiến dịch thứ 3, `0` nếu không. |
+| `AcceptedCmp4` | `1` chấp nhận chiến dịch thứ 4, `0` nếu không. |
+| `AcceptedCmp5` | `1` chấp nhận chiến dịch thứ 5, `0` nếu không. |
+| `Response` | `1` chấp nhận chiến dịch tiếp theo, `0` nếu không. |
 
 ### 🏪 Place 
 
