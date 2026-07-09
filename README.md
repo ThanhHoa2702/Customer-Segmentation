@@ -1,5 +1,25 @@
 # Maximizing Marketing Campaigns through Data-Driven Customer Segmentation
 
+## 📌 Overview 
+
+Công ty hiện đang sở hữu một tập dữ liệu về nhân khẩu học, hành vi mua sắm và phản hồi marketing của khách hàng trong vòng 2 năm.
+
+Tuy nhiên, các chiến dịch trước đây được triển khai đồng loạt trên toàn bộ khách hàng dẫn đến:
+
+- Chi phí cao.
+
+- Tỷ lệ phản hồi thấp.
+
+- Khó tối ưu sản phẩm, kênh bán hàng.
+
+Mục tiêu:
+
+- Tìm tệp khách hàng giá trị thông qua việc phân tích đặc điểm hành vi và nhân khẩu học.
+
+- Đo lường tỷ lệ phản hồi của các tệp khách hàng trong chiến dịch tới.
+
+- Kênh bán hàng chủ lực, danh mục sản phẩm cần tập trung.
+
 ## 📌 Executive Summary
 
 Dữ liệu về hành vi và giao dịch của khách hàng trong 2 năm qua đã xác định được nguyên nhân cốt lõi và mở ra nhận định: Không thể tiếp tục bán mọi thứ cho toàn bộ khách hàng.
