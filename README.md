@@ -20,7 +20,9 @@ Mục tiêu:
 
 - Kênh bán hàng chủ lực, danh mục sản phẩm cần tập trung.
 
-## 📌 Executive Summary
+---
+
+## Executive Summary
 
 Dữ liệu về hành vi và giao dịch của khách hàng trong 2 năm qua đã xác định được nguyên nhân cốt lõi và mở ra nhận định: Không thể tiếp tục bán mọi thứ cho toàn bộ khách hàng.
 
