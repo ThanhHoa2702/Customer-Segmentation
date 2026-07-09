@@ -1,4 +1,4 @@
-# Maximizing Marketing Campaigns through Data-Driven Customer Segmentation
+# Maximizing Marketing Campaigns through Customer Segmentation
 
 ## 📌 Overview 
 
