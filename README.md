@@ -1,4 +1,4 @@
-# Maximizing Marketing Campaigns through Customer Segmentation
+# Maximizing Marketing Campaign through Customer Segmentation
 
 ## 📌 Overview 
 
