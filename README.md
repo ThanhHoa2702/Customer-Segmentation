@@ -28,7 +28,7 @@ Dữ liệu về hành vi và giao dịch của khách hàng trong 2 năm qua đ
 
 Qua quá trình phân tích, Chân dung Khách hàng giá trị đã được định hình qua 3 góc nhìn:
 
-- **Nhân khẩu học**: Thu nhập càng cao sẽ có xu hướng chi tiêu càng nhiều. Tuy nhiên, mức độ chi tiêu và cấu trúc sản phẩm bị chi phối bởi cấu trúc gia đình (Có con/ Không con).
+- **Nhân khẩu học**: Thu nhập càng cao sẽ có xu hướng chi tiêu càng nhiều. Tuy nhiên, mức độ chi tiêu và cấu trúc sản phẩm bị chi phối bởi cấu trúc gia đình.
 
 - **Hành vi mua sắm**: Việc tung nhiều khuyến mãi trên toàn bộ tập khách hàng không cải thiện tốt doanh thu. Phần lớn bình quân chi tiêu tạo ra nguồn doanh thu giá trị ở nhóm khách hàng mua sắm không phụ thuộc vào khuyến mãi.
 
