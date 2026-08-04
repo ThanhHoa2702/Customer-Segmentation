@@ -54,7 +54,7 @@ Qua quá trình phân tích, Chân dung Khách hàng giá trị đã được đ
 
 ## 📈 Key insights 
 
-- Nhóm "No Deal" đóng góp lợi nhuận cao, trong khi nhóm phụ thuộc khuyến mãi có sức mua chạm đáy.
+- Nhóm "No Deal" đóng góp doanh thu cao, trong khi nhóm phụ thuộc khuyến mãi có sức mua chạm đáy.
 
   <img width="939" height="559" alt="image" src="https://github.com/user-attachments/assets/a2c752ec-b823-44b9-a0ad-cb56158216a7" />
 
