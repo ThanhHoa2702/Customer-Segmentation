@@ -84,6 +84,12 @@ Thư viện:
 
 Kỹ thuật: Phân tích Khám phá (EDA), Xử lý Outliers, Phân cụm khách hàng dựa theo phân vị.
 
+---
 
+## Revivew
+
+Đây là dự án học thuật, bộ dữ liệu thoả mãn mục địch ứng dụng những kiến thức cơ bản trong thống kê mô tả, truy vấn những vấn đề xuất hiện trong bộ dữ liệu. Mang tính chất tham khảo, không áp dụng hoặc sử dụng chỉ ra những vấn đề thực tế.
+
+Cảm ơn nhà cung cập dữ liệu: https://www.kaggle.com/datasets/imakash3011/customer-personality-analysis
 
 
